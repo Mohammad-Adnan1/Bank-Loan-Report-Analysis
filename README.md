@@ -158,6 +158,8 @@ Below are static screenshots showing each chart for each measure selection.
 ## 📂 File Structure
 
 - **Bank-Loan-Report-Analysis/**
+  - **Data/**
+  - financial_loan.csv
   - **Power BI/**
     - **images/**
       - Bank_Loan_Report_Details.png
